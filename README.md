@@ -5,4 +5,4 @@ This program requires Pygame to run
 
 When you run the program, an unsolved Sudoku board will appear in a display window. You can press ENTER to see the brute-force, recursive back-tracking algorithm solve the board.
 
-#This program taught me basic python syntax, object-oriented programming, and recursion
+# This program taught me basic python syntax, object-oriented programming, and recursion
