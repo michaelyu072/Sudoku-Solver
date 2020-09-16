@@ -1,5 +1,5 @@
 # Sudoku-Solver
-# See a video of this project: https://drive.google.com/file/d/1LqpuBQ4HI0ncZPCkfBMFGTrHUVY_jp-V/view?usp=sharing
+# See a video of this project: https://drive.google.com/file/d/1z2OYnR33e84EfHJUchqUh3G9X2EVAONu/view?usp=sharing
 This is my first personal coding project in Python, I followed the tutorial made by Tech With Tim on Youtube. 
 
 This program requires Pygame to run.
